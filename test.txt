@@ -1,8 +1,8 @@
-git clone git@github.com:HornyCapacitor/git-tutorial.git - kopia repo <-- SSH/HTTPS
-git add <file_name> / <.> <-- dodaje wszystko
-git commit -m 'commit_message' <-- tworzy commit z dodanymi plikami
-git push <-- pushuje git na repo
-git pull <-- synchronizuje repo z lokalnymi plikami
-git branch <branch_name> <-- tworzę i nazywam brancha
-git checkout <branch_name> <-- przeskakuje na brancha
-git checkout -b <branch_name> <-- tworze brancha i od razu na niego przeskakuje
+git clone git@github.com:HornyCapacitor/git-tutorial.git - kopia repo <-- SSH/HTTPS cipadzksoad
+git add <file_name> / <.> <-- dodaje wszystko ruchanie
+git commit -m 'commit_message' <-- tworzy commit z dodanymi plikami jeać
+git push <-- pushuje git na repo chuj
+git pull <-- synchronizuje repo z lokalnymi plikami huj
+git branch <branch_name> <-- tworzę i nazywam brancha cipa
+git checkout <branch_name> <-- przeskakuje na brancha kutas
+git checkout -b <branch_name> <-- tworze brancha i od razu na niego przeskakuje kurwa
